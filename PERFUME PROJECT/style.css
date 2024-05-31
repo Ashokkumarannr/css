@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-left: 65%;
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+ 
+
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.search{
+    padding: 50px;
+    text-align: center;
+
+
+}
+.box{
+    display: inline-block;
+    border-color:black;
+    border-style:solid;
+    border-width:4px;
+    width: 400px;
+    margin: 15px;
+}
+.product{
+    text-align: center;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.About{
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+}
+.paragraph{
+    text-align: center;
+    padding: 35px;
+}
+.con{
+    text-align: center;
+    color: white;
+    font-style: normal;
+    padding: 20px;
+}
+.contact{
+    background-color:black;
+}
+.para{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 45px;
+   
+}
